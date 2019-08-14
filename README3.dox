@@ -1,0 +1,22 @@
+/**
+
+@mainpage  (Subject 3 - SED-String Evresis Distance )
+
+@author Valentinos Pariza
+
+This program implements a program that calculates the String Eversis Distance 
+between two Strings.String Eversis Distance or SED is the minimum cost of 
+changes that are made between two Strings in order the two String to be equal.
+For moreinformation @see https://en.wikipedia.org/wiki/Levenshtein_distance.
+Furhermore in this program two implementations of the algorythm can be seen.
+One using recursion and the other using arrays.But more details are explained
+below.
+
+This algorythm can be used in many applies in order to calculate the distance
+between two Strings.Also it gives an idea on how different things that have
+one to one correspondence with numbers(either real or integer numbers) can be
+used for calculating a distance between them(like the Strings,the objects,the
+probabilities and much more).
+
+
+*/
